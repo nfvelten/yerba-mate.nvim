@@ -1,5 +1,9 @@
 # yerba-mate.nvim
 
+<p align="center">
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/logo.jpg" alt="Mate" />
+</p>
+
 Neovim colorscheme pair — dark and light variants inspired by mate culture.
 
 - **Yerba Mate** (dark) — deep olive-black, ochre and mate-green accents
@@ -12,7 +16,7 @@ Both themes cover: editor UI, syntax, Treesitter, LSP diagnostics, Git Signs, Te
 Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
-{ "nfvelten/yerba-mate.nvim" }
+{ "mateCreations/yerba-mate.nvim" }
 ```
 
 ## Usage
@@ -30,7 +34,7 @@ With lazy.nvim + LazyVim:
 ```lua
 -- In lua/plugins/colorscheme.lua
 return {
-  { "nfvelten/yerba-mate.nvim" },
+  { "mateCreations/yerba-mate.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
@@ -44,6 +48,10 @@ return {
 
 ### Yerba Mate (dark)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/palette-yerba-mate.png" alt="Yerba Mate palette" />
+</p>
+
 | Role       | Color     |
 |------------|-----------|
 | Background | `#1c1e13` |
@@ -55,6 +63,10 @@ return {
 | Comments   | `#4f5b4a` |
 
 ### Tererê (light)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/palette-terere.png" alt="Tererê palette" />
+</p>
 
 | Role       | Color     |
 |------------|-----------|
@@ -68,6 +80,6 @@ return {
 
 ## Companion
 
-- Omarchy system theme (dark): [omarchy-yerba-mate](https://github.com/nfvelten/omarchy-yerba-mate)
-- Omarchy system theme (light): [omarchy-terere](https://github.com/nfvelten/omarchy-terere)
-- Obsidian theme: [obsidian-yerba-mate](https://github.com/nfvelten/obsidian-yerba-mate)
+- Omarchy system theme (dark): [omarchy-yerba-mate](https://github.com/mateCreations/omarchy-yerba-mate)
+- Omarchy system theme (light): [omarchy-terere](https://github.com/mateCreations/omarchy-terere)
+- Obsidian theme: [obsidian-yerba-mate](https://github.com/mateCreations/obsidian-yerba-mate)
