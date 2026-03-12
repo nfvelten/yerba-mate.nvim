@@ -1,7 +1,7 @@
 # yerba-mate.nvim
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/master/images/logo.jpg" alt="Mate" />
 </p>
 
 Neovim colorscheme pair — dark and light variants inspired by mate culture.
@@ -49,7 +49,7 @@ return {
 ### Yerba Mate (dark)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/palette-yerba-mate.png" alt="Yerba Mate palette" />
+  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/master/images/palette-yerba-mate.png" alt="Yerba Mate palette" />
 </p>
 
 | Role       | Color     |
@@ -65,7 +65,7 @@ return {
 ### Tererê (light)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/main/images/palette-terere.png" alt="Tererê palette" />
+  <img src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/master/images/palette-terere.png" alt="Tererê palette" />
 </p>
 
 | Role       | Color     |
