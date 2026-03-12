@@ -1,7 +1,7 @@
 # yerba-mate.nvim
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/master/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/yerba-mate.nvim/master/images/logo.png" alt="Mate" />
 </p>
 
 Neovim colorscheme pair — dark and light variants inspired by mate culture.
